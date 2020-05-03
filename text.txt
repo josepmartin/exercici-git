@@ -1,1 +1,2 @@
 Aquest és un arxiu de text.
+Ara faig un canvi dintre de la branch "master".

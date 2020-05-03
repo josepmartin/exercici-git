@@ -1,1 +1,2 @@
 Aquest és un arxiu de text.
+Text afegit dintre de la branch "branch1".
